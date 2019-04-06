@@ -1,13 +1,4 @@
-setwd("C:/Users/jap090020/Dropbox/UTDallas/buan6356/post")
-######################################
-## Author:   Jason Parker
-## Date:     2018-08-20
-## Title:    lec1.R
-## Purpose:  Display basic R commands for data analysis including:
-##             - Group by statements
-##             - Plotting
-##             - Linear regression
-######################################
+setwd("A:/Work/University Work Area/BA with R")
 
 rm(list=ls()) #drop all variables
 
