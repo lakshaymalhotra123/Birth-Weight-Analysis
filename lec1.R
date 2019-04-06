@@ -1,3 +1,5 @@
+## Birth Weight Analysis ##
+
 setwd("A:/Work/University Work Area/BA with R")
 
 rm(list=ls()) #drop all variables
